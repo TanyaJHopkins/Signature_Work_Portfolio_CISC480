@@ -1,0 +1,8 @@
+# Signature_Work_Portfolio_CISC480
+During my second semester of Junior year in college, I was tasked with making a personal resume website for my web development course. This was our first major project, and also my first major project involving a web framework called Foundation as well as device-responsive website design in general.
+
+The site has 3 repsonsive modes for large (i.e. a full desktop window), medium (i.e. half of a desktop window), and small (i.e. a mobile device's screen). Along with this, the site uses a number of different fonts that I enjoy and is tied together with an image I modeled myself in Blender. The html for the site's four pages is admittedly a bit messy due to the code having to be duplicated for each responsive view. This isn't necessarily due to the framework used, as I'm sure there's a cleaner way of doing things built into Foundation, but such is life when you're new to the toolset you're using.
+
+While there are a number of things I would change about the website were I to make it today, whether it be framework choice, font choices, overall theme, etc, I feel it still stands up well enough as something that's both functional and (reasonably) pleasing to look at within my library of past projects--especially for an initial exploration such as it is.
+
+The files for the website are included in the 'CISC-375-Project1-Resume-Site' folder herein. The site can be navigated by simply opening one of the html files in your web browser of choice and clicking around from there.
